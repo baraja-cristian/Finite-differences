@@ -2,9 +2,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 import sympy as sp
 
-
-#####pip install -r requirements.txt####
-
 # INGRESAR LA FUNCIÓN COMO UNA CADENA DE CARACTERES
 func_expression = input('INGRESE LA FUNCIÓN f(x): ')
 
