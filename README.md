@@ -36,3 +36,4 @@ DIFERENCIAS FINITAS__(Centrada):
 Aproximación: 471.999475467216
 Error: 0.0328937976534007
 ```
+![Imagen](https://github.com/baraja-cristian/Finite-differences/blob/main/img/Figure_1.png)
